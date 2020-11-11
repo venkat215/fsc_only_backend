@@ -1,1 +1,1 @@
-web: gunicorn fsc.wsgi
+web: gunicorn fsc.wsgi.application
