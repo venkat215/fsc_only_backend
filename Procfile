@@ -1,1 +1,1 @@
-web: gunicorn fsc.wsgi
+web: gunicorn --chdir fsc fsc.wsgi:application --log-file -
