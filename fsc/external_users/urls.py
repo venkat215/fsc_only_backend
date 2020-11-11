@@ -1,6 +1,4 @@
 from django.urls import path
-# from .views import RegisterView, LoginView
-from rest_framework_simplejwt import views as jwt_views
 from .views import ReceiveMessageView
 
 urlpatterns = [
