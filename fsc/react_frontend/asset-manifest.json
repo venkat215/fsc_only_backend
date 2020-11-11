@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.de315a9e.chunk.css",
-    "main.js": "/static/js/main.6d893557.chunk.js",
-    "main.js.map": "/static/js/main.6d893557.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eab43fdc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eab43fdc.js.map",
+    "main.css": "/static/css/main.fc6ef23c.chunk.css",
+    "main.js": "/static/js/main.d8c18b62.chunk.js",
+    "main.js.map": "/static/js/main.d8c18b62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19e84379.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19e84379.js.map",
     "static/css/2.95f25948.chunk.css": "/static/css/2.95f25948.chunk.css",
-    "static/js/2.23da0a66.chunk.js": "/static/js/2.23da0a66.chunk.js",
-    "static/js/2.23da0a66.chunk.js.map": "/static/js/2.23da0a66.chunk.js.map",
-    "static/js/3.d948112c.chunk.js": "/static/js/3.d948112c.chunk.js",
-    "static/js/3.d948112c.chunk.js.map": "/static/js/3.d948112c.chunk.js.map",
+    "static/js/2.b0118452.chunk.js": "/static/js/2.b0118452.chunk.js",
+    "static/js/2.b0118452.chunk.js.map": "/static/js/2.b0118452.chunk.js.map",
+    "static/js/3.21c5c41f.chunk.js": "/static/js/3.21c5c41f.chunk.js",
+    "static/js/3.21c5c41f.chunk.js.map": "/static/js/3.21c5c41f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.95f25948.chunk.css.map": "/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.de315a9e.chunk.css.map": "/static/css/main.de315a9e.chunk.css.map",
-    "static/js/2.23da0a66.chunk.js.LICENSE.txt": "/static/js/2.23da0a66.chunk.js.LICENSE.txt",
+    "static/css/main.fc6ef23c.chunk.css.map": "/static/css/main.fc6ef23c.chunk.css.map",
+    "static/js/2.b0118452.chunk.js.LICENSE.txt": "/static/js/2.b0118452.chunk.js.LICENSE.txt",
     "static/media/Resume.c3434976.pdf": "/static/media/Resume.c3434976.pdf",
     "static/media/index.css": "/static/media/crushed_paper.9e295751.jpg",
     "static/media/dviz_app_logo.69837414.png": "/static/media/dviz_app_logo.69837414.png",
@@ -23,10 +23,10 @@
     "static/media/working-on-it.c432f1b0.png": "/static/media/working-on-it.c432f1b0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eab43fdc.js",
+    "static/js/runtime-main.19e84379.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.23da0a66.chunk.js",
-    "static/css/main.de315a9e.chunk.css",
-    "static/js/main.6d893557.chunk.js"
+    "static/js/2.b0118452.chunk.js",
+    "static/css/main.fc6ef23c.chunk.css",
+    "static/js/main.d8c18b62.chunk.js"
   ]
 }
